@@ -1,0 +1,27 @@
+/* Base Application Styles */
+body {
+  background: #e2e2e2;
+}
+#app {
+  width: 100%;
+  min-width: 1280px;
+  background: #e2e2e2;
+}
+.center {
+  width: 1280px;
+  margin: 0 auto;
+}
+
+.breadNav {
+  font-size: 12px;
+  margin: 10px 0;
+}
+.breadNav a {
+    float: left;
+    color: #000;
+    margin: 0 5px;
+}
+.breadNav span {
+    float: left;
+    margin: 0 5px;
+}
